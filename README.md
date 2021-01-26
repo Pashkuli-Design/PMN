@@ -1,3 +1,5 @@
+![Pashkuli Logo](https://github.com/Pashkuli-Design/github.io/blob/main/pashkuli%20logo%20normal%20(drawing).png)
+
 ## Table of contents
 - [General Info](#general-info)
 - [Concept](#concept)
