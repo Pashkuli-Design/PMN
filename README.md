@@ -10,6 +10,7 @@ In this way, every note of the 12 named can be considered as a "clef" note, mean
 Thus, music intervals (both harmonic and melodic) follow a simple rule of counting steps, derived from the consecuitive (chromatic) structure of the 12 music notes. There is no reference to any special case of a "reference mode" (as otherwise is the case with the old, "standard", music notation)
 
 0 interval = unison (or single tone)
+
 1 step (step) = prima, first (next tone)
 2 steps (jump) = seconda, second (skip a tone)
 3 steps (leap) = third (skip two tones)
