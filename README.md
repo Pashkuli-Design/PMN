@@ -1,4 +1,4 @@
-![Pashkuli Logo](https://github.com/Pashkuli-Design/github.io/blob/main/pashkuli%20logo%20normal%20(drawing).png)
+![Pashkuli Logo](https://github.com/Pashkuli-Design/github.io/blob/main/pashkuli%20logo%20normal%20(music%20notation).png)
 
 <center>**Music Notation for players**</center>
 
