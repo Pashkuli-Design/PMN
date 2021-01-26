@@ -31,6 +31,8 @@ Thus, music intervals (both harmonic and melodic) follow a simple rule of counti
 
 and so on...
 
+You can think of this PNS (music notation) as a 'generalised' TAB (tablature) with 12 distinctive and recognisable notes and the 'strings' are "tuned" in renovas (higher or lower pitch clusters on tones). 
+
 ## Development
 Ideally, _the project will be Open Source and Free_, but since I am not the developer, they (the developer) will have their word on whether they would like it to be Open Source and Free, Open Source (non Free), Proprietary (Free), Proprietary (non Free).
 
