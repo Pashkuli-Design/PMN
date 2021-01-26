@@ -8,7 +8,7 @@
 
 ## General Info
 This will be a software project for a **Music Notation** application - an _extremely unconventional_ one!
-Pashkuli Music Notation (or Plain Music Notation) **PNS**
+Pashkuli Music Notation (or Plain Music Notation) **PNS**.
 I am looking for a **skilful developer**, who would eventually find [this idea](#Concept) interesting and intriguing enough to make it as a real software program or application.
 Preferably, the developer would be interested in Music as a whole or maybe they are a fan of Rock, Metal, Flamenco, Blues/Jazz and Electronic Music (as myself).
 
