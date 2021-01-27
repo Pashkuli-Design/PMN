@@ -6,8 +6,6 @@
 - [Development](#development)
 - [Presentation](#presentation)
 
-![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/keyboard-noteheads-clefs.jpg)
-
 ## General Info
 This will be a software project for a **Music Notation** application - an _extremely unconventional_ one!
 Pashkuli Music Notation (or Plain Music Notation) **PMN**.
@@ -20,7 +18,10 @@ It concerns the so called "Western" (it is actually Mediterranean) 12 note syste
 
 It has 12 distinctive and unique symbols and letter and names (syllables) for each of its 12 tones.
 The 12 tones are arranged in rows (there is no need to draw staff lines) and those rows represent the **renovas** - each cluster of the 12 notes in a frequency range. The old (and also inadequate) term for this is known as an "octave".
-In this way, every note of the 12 named can be considered as a "clef" note, meaning also it is a **renova separator**, depending on the general or temporary structure of the written music in terms of Mode or Tonality.
+In this way, every note of the 12 named can be considered as a "clef" note (underlined or overlined, see the image below), meaning also it is a **renova separator**, depending on the general or temporary structure of the written music in terms of Mode or Tonality.
+
+![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/keyboard-noteheads-clefs.jpg)
+
 Thus, music intervals (both harmonic and melodic) follow a simple rule of counting steps, derived from the consecutive (chromatic) structure of the 12 music notes. There is no (and should not be any) reference to any special case of a "reference mode" (as otherwise is the case with the old, "standard", music notation).
 
 * 0 interval = unison (or single tone)
