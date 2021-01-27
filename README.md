@@ -4,6 +4,7 @@
 - [General Info](#general-info)
 - [Concept](#concept)
 - [Development](#development)
+- [Example](#example)
 - [Presentation](#presentation)
 
 ## General Info
@@ -40,6 +41,11 @@ You can think of this PMN (music notation) as a 'generalised' TAB (tablature) wi
 
 ## Development
 Ideally, _the project will be Open Source and Free_, but since I am not the developer, they (the developer) will have their word on whether they would like it to be Open Source and Free, Open Source (non Free), Proprietary (Free), Proprietary (non Free).
+
+## Example
+Shown below is a piano piece written in both the "standard" and PMN design scripts. They both represent the first 7 bars of Chopin's "Fantaisie-Impromptu, Op.66". Enjoy the comparison!
+
+![PMN Chopin](https://github.com/Pashkuli-Design/github.io/blob/main/Chopin%20-%20Fantaisie%20(comparison).png)
 
 ## Presentation
 For more introduction and presentation materials on the project, please visit:
