@@ -20,7 +20,9 @@ It has 12 distinctive and unique symbols and letter and names (syllables) for ea
 The 12 tones are arranged in rows (there is no need to draw staff lines) and those rows represent the **renovas** - each cluster of the 12 notes in a frequency range. The old (and also inadequate) term for this is known as an "octave".
 In this way, every note of the 12 named can be considered as a "clef" note (underlined or overlined, see the image below), meaning also it is a **renova separator**, depending on the general or temporary structure of the written music in terms of Mode or Tonality.
 
-![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/keyboard-noteheads-clefs.jpg)
+![Pashkuli Notenames](https://github.com/Pashkuli-Design/github.io/blob/main/keyboard-noteheads-clefs.jpg)
+
+![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/piano-keyboard%20(Pashkuli%20names-symbols.jpg)
 
 Thus, music intervals (both harmonic and melodic) follow a simple rule of counting steps, derived from the consecutive (chromatic) structure of the 12 music notes. There is no (and should not be any) reference to any special case of a "reference mode" (as otherwise is the case with the old, "standard", music notation).
 
