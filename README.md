@@ -8,12 +8,12 @@
 
 ## General Info
 This will be a software project for a **Music Notation** application - an _extremely unconventional_ one!
-Pashkuli Music Notation (or Plain Music Notation) **PNS**.
+Pashkuli Music Notation (or Plain Music Notation) **PMN**.
 I am looking for a **skilful developer**, who would eventually find [this idea](#Concept) interesting and intriguing enough to make it as a real software program or application.
 Preferably, the developer would be interested in Music as a whole or maybe they are a fan of Rock, Metal, Flamenco, Blues/Jazz and Electronic Music (as myself).
 
 ## Concept
-PNS is a new way of writing and reading Music (on screen, paper, blank surface).
+PMN is a new way of writing and reading Music (on screen, paper, blank surface).
 It concerns the so called "Western" (it is actually Mediterranean) 12 note system, known as 12 Tone Equal Temperament (12-TET).
 
 It has 12 distinctive and unique symbols and letter and names (syllables) for each of its 12 tones.
@@ -31,7 +31,7 @@ Thus, music intervals (both harmonic and melodic) follow a simple rule of counti
 
 and so on...
 
-You can think of this PNS (music notation) as a 'generalised' TAB (tablature) with 12 distinctive and recognisable notes and the 'strings' are "tuned" in renovas (higher or lower pitch clusters on tones). 
+You can think of this PMN (music notation) as a 'generalised' TAB (tablature) with 12 distinctive and recognisable notes and the 'strings' are "tuned" in renovas (higher or lower pitch clusters on tones). 
 
 ## Development
 Ideally, _the project will be Open Source and Free_, but since I am not the developer, they (the developer) will have their word on whether they would like it to be Open Source and Free, Open Source (non Free), Proprietary (Free), Proprietary (non Free).
