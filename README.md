@@ -22,7 +22,7 @@ In this way, every note of the 12 named can be considered as a "clef" note (unde
 
 ![Pashkuli Notenames](https://github.com/Pashkuli-Design/github.io/blob/main/keyboard-noteheads-clefs.jpg)
 
-![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/piano-keyboard%20(Pashkuli%20names-symbols.jpg)
+![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/piano-keyboard%20(Pashkuli%20names-symbols).jpg)
 
 Thus, music intervals (both harmonic and melodic) follow a simple rule of counting steps, derived from the consecutive (chromatic) structure of the 12 music notes. There is no (and should not be any) reference to any special case of a "reference mode" (as otherwise is the case with the old, "standard", music notation).
 
