@@ -6,6 +6,8 @@
 - [Development](#development)
 - [Presentation](#presentation)
 
+![Pashkuli Noteheads](https://github.com/Pashkuli-Design/github.io/blob/main/keyboard-noteheads-clefs.jpg)
+
 ## General Info
 This will be a software project for a **Music Notation** application - an _extremely unconventional_ one!
 Pashkuli Music Notation (or Plain Music Notation) **PMN**.
