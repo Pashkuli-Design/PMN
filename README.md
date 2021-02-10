@@ -49,11 +49,17 @@ Shown below is a piano piece written in both the "standard" and PMN design scrip
 
 
 The proposed notation PMN (Plain Music Notation) is all about:
+
 · simplicity (you need only a pencil and paper)
+
 · extreme accuracy (composer intention) in both staff and chord names (letters + numbers)
+
 · tachyonic speed of mnemonic readability and learning (symbolic)
+
 · it spares vertical and horizontal space (at least 80% of the time) = less paper, less turning of pages
+
 · it is intended towards 12-TET but can be modified to other systems as well
+
 and more...
 
 
