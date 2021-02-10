@@ -67,5 +67,3 @@ ___
 [**Pashkuli** - _Youtube_](https://www.youtube.com/channel/UCCpNnEXxYbtU6S5uwaasSUQ)
 
 [**Pashkuli** - _KVR forum_](https://www.kvraudio.com/forum/viewtopic.php?f=102&t=531404)
-
-[**Pashkuli** - _MuseScore forum_](https://musescore.org/en/node/309771)
