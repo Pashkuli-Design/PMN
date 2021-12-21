@@ -45,7 +45,7 @@ Ideally, _the project will be Open Source and Free_, but since I am not the deve
 ## Example
 Shown below is a piano piece written in both the "standard" and PMN design scripts. They both represent the first 7 bars of Chopin's "Fantaisie-Impromptu, Op.66". Enjoy the comparison!
 
-![PMN Chopin](https://github.com/Pashkuli-Design/github.io/blob/main/Chopin%20-%20Fantaisie%20(comparison).jpg)
+![PMN Chopin](https://github.com/Pashkuli-Design/github.io/blob/6b3d4861475ae2f0cb737955e8cfa281fe25e51c/Chopin%20-%20Fantaisie%20(comparison).jpg)
 
 
 The proposed notation PMN (Plain Music Notation) is all about:
